@@ -6,7 +6,6 @@ import javax.swing.*;
 public class Terminal extends JFrame{
     private JTextArea display;
     private JPanel panel1;
-    private JTextField commandLine;
 
     public Terminal(){
         //super("Terminal");
@@ -15,8 +14,6 @@ public class Terminal extends JFrame{
         pack();
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        display.setEditable(false);
-        commandLine.grabFocus();
 
 
         setVisible(true);
