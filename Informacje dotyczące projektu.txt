@@ -1,4 +1,4 @@
 Hi!
 
-I would like to share my thoughts about this project.I'm going to use NIO library which is JDK Class.
+I would like to share my thoughts about this project.I'm going to use NIO library which is JDK Class. Sorry for not commiting my progress for few days, but I was very busy and didn't have time to work on this project. I will try to complete everything today and commit my progress.
 
