@@ -1,3 +1,6 @@
+import java.nio.file.Path;
+import java.util.List;
+
 /**
  * Created by test on 2016-04-17.
  */
@@ -7,6 +10,7 @@ public interface CommandsInterface  {
     void currentWorkingDirectory();
     void resetCommand();
     String defaultWorkingDirectory();
+    String defaultWorkingDirectory2();
 
 
 }
